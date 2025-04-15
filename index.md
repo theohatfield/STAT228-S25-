@@ -1,5 +1,6 @@
 ## About Me!
-Theo Hatfield
+Theo Hatfield 
+
 Simmons Univeristy Biochemistry, 2025
 
 My primary interests are in infectious disease pathology and cell signaling. I am really interested in learning to use more bioinformatic methods to apply to my research work!
