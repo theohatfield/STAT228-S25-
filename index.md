@@ -15,3 +15,7 @@ This project aims to initially explore the relationship straight and non-straigh
 
 ### [Mini Project 2: 𓆙 Let's Wrangle Some MF Snakes! 𓆙](https://theohatfield.github.io/STAT228_MINIPROJ_2/)
 This project aims to provide a basic intro to wrangling data. It may not be as daring as snake wrangling, but it is definitely more useful for data scientists!
+https://theohatfield.github.io/STAT228_FINALPROJ/
+
+### [Final Project: Adoption of GMOs in Response to Economic Downturn: Nutritional Outcomes and Change Over Time](https://theohatfield.github.io/STAT228_FINALPROJ/)
+This project looked to explore relationships between economic downturn use of genetically modified crops (specifically corn) and impacts on nutritional.
